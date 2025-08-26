@@ -20,7 +20,7 @@ My focus is on delivering reliable, high-quality software and enhancing user exp
 ## 🎓 Certifications
 - ✅ ISTQB Certified Tester – Foundation Level (CTFL)  
 - ✅ ISTQB Certified Agile Tester (CTFL-AT)
-- 
+  
 ---
 
 ## 📂 Portfolio Highlights
